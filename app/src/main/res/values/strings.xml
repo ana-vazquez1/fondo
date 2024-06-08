@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Fondo de Pantalla</string>
+
+    <string name="nagevation_drawer_open">Open navegation drawer</string>
+    <string name="nagevation_drawer_close">Close navegation drawer</string>
+
+    <string name="desarrollador">Desarrollado por: Ana Vazquez </string>
+
+    <!--Menu Admin-->
+    <string name="InicioAdmin">Inicio</string>
+    <string name="PerfilAdmin">Perfil</string>
+    <string name="RegistrarAdmin">Registrar</string>
+    <string name="ListarAdmin">Lista de Administradores</string>
+    <string name="Salir">Cerrar Sesión</string>
+
+    <!-- Menú cliente -->
+    <string name="Opcionestxt">Opciones</string>
+    <string name="InicioCliente">Inicio</string>
+
+    <string name="MasOpcionestxt">Más Opciones</string>
+    <string name="AcercaDe">Acerca de</string>
+    <string name="Compartir">Compartir</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
